@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+__pycache__
+
+# Backup files
+*~
+*.bak
+
+# SQLite database file
+db.sqlite3
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Media files (if you are using the Django Media storage)
+media/
+
+# Static files (if you are using the Django Static storage)
+staticfiles/
+
+# IDE-specific files and directories
+.vscode/
+.idea/
+
+# Dependency directories
+venv/
+node_modules/
+
+
+# Editor-specific files
+*.swp
+*.swo
+
+# Site-specific configurations
+*.conf
+
+# Local development settings
+local_settings.py
+
+# Database dump
+*.dump
+
+# Compiled translations
+locale/
