@@ -4,6 +4,7 @@ __pycache__/
 *.pyo
 __pycache__
 
+db.sqlite3
 # Backup files
 *~
 *.bak
@@ -30,7 +31,7 @@ staticfiles/
 # Dependency directories
 venv/
 node_modules/
-
+.idea/
 
 # Editor-specific files
 *.swp
