@@ -12,10 +12,10 @@
 /*.log
 /media
 /staticfiles
-/.vscod/
-/../../Desktop/qweasd/.idea/
+/.vscod
+/../../Desktop/qweasd/.idea
 /venv
-/node_modules/
+/node_modules
 /.idea
 /*.swp
 /*.swo
