@@ -14,6 +14,7 @@ TestRep/db.sqlite3
 
 # Environment variables
 .env
+.venv
 
 # Log files
 *.log
