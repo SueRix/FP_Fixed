@@ -1,11 +1,9 @@
 /__pycache__
 /*.pyc
 /*.pyo
-/__pycache__
 /db.sqlite3
 /*~
 /*.bak
-# SQLite database file
 /TestRep/db.sqlite3
 /.env
 /.venv
@@ -13,13 +11,14 @@
 /media
 /staticfiles
 /.vscod
-/../../Desktop/qweasd/.idea
+/.idea
 /venv
 /node_modules
-/.idea
 /*.swp
 /*.swo
 /*.conf
 /local_settings.py
 /*.dump
 /locale
+/authentication/migrations/*
+

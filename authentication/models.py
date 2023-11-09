@@ -27,5 +27,6 @@ class CustomUser(models.Model):
     )
     password = models.CharField(max_length=128)
     username = models.CharField(max_length=30, unique=True)
+    is_active = models.BooleanField(default=True)
 
     objects = CustomUserManager()
